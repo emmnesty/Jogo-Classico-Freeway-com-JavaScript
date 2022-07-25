@@ -23,4 +23,5 @@ function preload(){
   somDaTrilha = loadSound("sons/trilha.mp3");
   somDaColisao = loadSound("sons/colidiu.mp3");
   somDoPonto = loadSound("sons/pontos.wav");
+  //
 }
